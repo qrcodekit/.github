@@ -1,6 +1,6 @@
 # QRCodeKIT
 
-**QRCodeKIT is a SaaS platform and API for creating, managing and tracking dynamic QR codes, including GS1 Digital Link QR codes for products and packaging.** Built by Digital Link in Valencia, Spain.
+**QRCodeKIT is a SaaS platform and API for creating, managing and tracking dynamic QR codes, including GS1 Digital Link QR codes for products and packaging.** 
 
 > Not the Swift package of the same name. QRCodeKIT (qrcodekit.com) is a hosted service with a REST API, not a library for Apple platforms.
 
