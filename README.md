@@ -1,20 +1,20 @@
 # QRCodeKIT
 
-Dynamic QR codes and GS1 Digital Link API for developers and brands.
+**QRCodeKIT is a SaaS platform and API for creating, managing and tracking dynamic QR codes, including GS1 Digital Link QR codes for products and packaging.** Built by Digital Link in Valencia, Spain.
 
-[Website](https://qrcodekit.com) · [Docs](https://qrcodekit.com/docs) · [API reference](https://qrcodekit.com/api) · [MCP server](https://github.com/qrcodekit/qrcodekit-mcp)
+> Not the Swift package of the same name. QRCodeKIT (qrcodekit.com) is a hosted service with a REST API, not a library for Apple platforms.
 
-## Official SDKs
-
-| Language | Package | Repo |
-|---|---|---|
-| PHP | [![Packagist](https://img.shields.io/packagist/v/qrcodekit/qrcodekit-php)](https://packagist.org/packages/qrcodekit/qrcodekit-php) | [qrcodekit-php](https://github.com/qrcodekit/qrcodekit-php) |
-| Node.js | [![npm](https://img.shields.io/npm/v/qrcodekit)](https://www.npmjs.com/package/qrcodekit) | [qrcodekit-node](https://github.com/qrcodekit/qrcodekit-node) |
-| Python | [![PyPI](https://img.shields.io/pypi/v/qrcodekit)](https://pypi.org/project/qrcodekit/) | [qrcodekit-python](https://github.com/qrcodekit/qrcodekit-python) |
+[Website](https://qrcodekit.com) · [Docs](https://qrcodekit.com/docs) · [About](https://qrcodekit.com/about)
 
 ## Use QRCodeKIT from AI assistants
 
-Connect our MCP server to Claude, Cursor or any MCP client: see [qrcodekit-mcp](https://github.com/qrcodekit/qrcodekit-mcp).
+QRCodeKIT has an MCP server. Add it to Claude, Cursor or any MCP client:
+
+    https://mcp.v2.qrcodekit.com/mcp
+
+## Official SDKs
+
+PHP, Node.js and Python SDKs are in development. Until then, use the REST API: see the [docs](https://qrcodekit.com/docs).
 
 ---
-Made in Valencia, Spain · [Contact](mailto:hello@qrcodekit.com)
+[Contact](mailto:support@qrcodekit.com)
